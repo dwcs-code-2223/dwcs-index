@@ -10,5 +10,5 @@
 [Actividad 2.3-Sol](https://github.com/dwcs-code-2223/Actividad-2.3-Sol.git)<br/>
 [Actividad 2.4-Sol](https://github.com/dwcs-code-2223/Actividad-2.4-Sol-)<br/>
 [Actividad 2.5-Sol](https://github.com/dwcs-code-2223/Actividad-2.5-Sol)<br/>
-[Actividad 2.6-Sol](https://github.com/dwcs-code-2223/Actividad-2.6-Sol.git)
-
+[Actividad 2.6-Sol](https://github.com/dwcs-code-2223/Actividad-2.6-Sol.git)<br/>
+[Actividad 2.7-Sol](https://github.com/dwcs-code-2223/Actividad-2.7-Sol.git)
