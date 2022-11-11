@@ -16,3 +16,5 @@
 
 ## UD3
 [Actividad 3.1-Sol](https://github.com/dwcs-code-2223/Actividad3.1.git)<br/>
+[Actividad 3.2-Sol](https://github.com/dwcs-code-2223/Actividad3.2.git)<br/>
+[Actividad 3.3-Sol](https://github.com/dwcs-code-2223/Actividad-3.3.git)<br/>
