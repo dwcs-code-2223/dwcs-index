@@ -20,5 +20,5 @@
 [Actividad 3.3-Sol](https://github.com/dwcs-code-2223/Actividad-3.3.git)<br/>
 [Actividad 3.4-Sol](https://github.com/dwcs-code-2223/Actividad3.4.git)<br/>
 [Actividad 3.5-Sol](https://github.com/dwcs-code-2223/Actividad3.5.git)<br/>
-[Actividad 3.6-Sol](https://github.com/dwcs-code-2223/Actividad-3.6)<br/> y [Actividad 3.6-Sol simplificada] (https://github.com/dwcs-code-2223/Actividad-3.6-simplificada.git) 
+[Actividad 3.6-Sol](https://github.com/dwcs-code-2223/Actividad-3.6) y [Actividad 3.6-Sol simplificada](https://github.com/dwcs-code-2223/Actividad-3.6-simplificada.git) 
 Si en lugar de incluir en el espacio de nombres la palabra "traits", usásemos solo la subcarpeta, es decir, namespace log en lugar de traits\log, se simplificaría el fichero autoload.php <br/>
