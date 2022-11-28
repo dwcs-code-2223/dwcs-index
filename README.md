@@ -15,7 +15,7 @@
 [Actividad 2.6-Sol](https://github.com/dwcs-code-2223/Actividad-2.6-Sol.git)<br/>
 [Actividad 2.7-Sol](https://github.com/dwcs-code-2223/Actividad-2.7-Sol.git)<br/>
 [Actividad 2.8-Sol](https://github.com/dwcs-code-2223/Actividad-2.8-Sol-.git)<br/>
-[Tarea02-Propuesta-Sol](https://github.com/dwcs-code-2223/Tarea02.1-Sol.git)
+[Tarea02.1-Propuesta-Sol](https://github.com/dwcs-code-2223/Tarea02.1-Sol.git)
 
 ## UD3
 [Actividad 3.1-Sol](https://github.com/dwcs-code-2223/Actividad3.1.git)<br/>
