@@ -2,7 +2,9 @@
 ## UD1
 ### Repaso Java
 [Actividad Repaso 1.1 (Java)-Sol](https://github.com/dwcs-code-2223/Actividad-Repaso-1.1-Java.git). <br/>
-[Actividad Repaso 1.2 (Java)-Sol](https://github.com/dwcs-code-2223/Actividad-Repaso-1.2-Java.git).
+[Actividad Repaso 1.2 (Java)-Sol](https://github.com/dwcs-code-2223/Actividad-Repaso-1.2-Java.git). <br/>
+[Tarea01.1-Propuesta-Sol-PHP](https://github.com/dwcs-code-2223/Tarea01.1-PHP--Sol.git)<br/>
+[Tarea01.1-Propuesta-Sol-Servlet] (https://github.com/dwcs-code-2223/Tarea01-Servlet--Sol.git)
 
 ## UD2
 [Actividad 2.1-Sol](https://github.com/dwcs-code-2223/Actividad-2.1-Sol)<br/>
