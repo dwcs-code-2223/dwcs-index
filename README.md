@@ -32,3 +32,9 @@
 
 ## UD4
 [Actividad 4.1](https://github.com/dwcs-code-2223/Actividad4.1)<br/>
+
+
+## Propuestas de solución Pruebas 1ª Evaluación
+[Prueba práctica UD2] (https://github.com/dwcs-code-2223/Eval1_UD2_Sol.git)<br/>
+[Prueba práctica UD3-Parte A] (https://github.com/dwcs-code-2223/Eval1_UD3_A_Sol.git)<br/>
+[Prueba práctica UD3-Parte B] (https://github.com/dwcs-code-2223/Eval1_UD3_B_Sol.git)<br/>
