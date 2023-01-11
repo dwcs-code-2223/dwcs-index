@@ -32,6 +32,7 @@
 
 ## UD4
 [Actividad 4.1](https://github.com/dwcs-code-2223/Actividad4.1)<br/>
+[Actividad 4.2](https://github.com/dwcs-code-2223/Actividad4.2.git)<br/>
 
 
 ## Propuestas de solución Pruebas 1ª Evaluación
