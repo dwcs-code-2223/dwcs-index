@@ -35,6 +35,8 @@
 [Actividad 4.2](https://github.com/dwcs-code-2223/Actividad4.2.git)<br/>
 [Actividad 4.3](https://github.com/dwcs-code-2223/Actividad4.3.git)<br/>
 [Actividad 4.4](https://github.com/dwcs-code-2223/Actividad4.4.git)<br/>
+[Actividad 4.5](https://github.com/dwcs-code-2223/Actividad4.5.git)<br/>
+[Actividad 4.6](https://github.com/dwcs-code-2223/Actividad4.6-Sol.git)<br/>
 
 
 ## Propuestas de solución Pruebas 1ª Evaluación
