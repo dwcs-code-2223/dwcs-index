@@ -44,6 +44,7 @@
 [Ejemplo BaseRepository](https://github.com/dwcs-code-2223/EjemploBaseRepository.git)<br/>
 [Actividad 5.2 con MVC](https://github.com/dwcs-code-2223/Actividad-5.2-MVC.git)<br/>
 [Actividad 5.3-enunciado](https://github.com/dwcs-code-2223/Actividad-5.3-MVC-Mysqli-enunciado.git)<br/>
+[Actividad 5.3-sol](https://github.com/dwcs-code-2223/Actividad-5.3-MVC-Mysqli-sol.git)<br/>
 
 
 ## Propuestas de solución Pruebas 1ª Evaluación
