@@ -42,6 +42,7 @@
 [Bookdb_v1](https://github.com/dwcs-code-2223/bookdb_v1.git)<br/>
 [Actividad 5.1](https://github.com/dwcs-code-2223/Actividad5.1.git)<br/>
 [Ejemplo BaseRepository](https://github.com/dwcs-code-2223/EjemploBaseRepository.git)<br/>
+[Actividad 5.2 con MVC](https://github.com/dwcs-code-2223/Actividad-5.2-MVC.git)<br/>
 
 
 ## Propuestas de solución Pruebas 1ª Evaluación
