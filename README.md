@@ -48,6 +48,11 @@
 [Actividad 5.4-sol](https://github.com/dwcs-code-2223/Actividad5.4.git)<br/>
 [Tarea05.1-sol](https://github.com/dwcs-code-2223/Tarea05.1-sol)<br/>
 
+## UD6
+[Actividad 6.1 Uniwebsidad - fichero soluciones/sandbox.js ](https://github.com/leandono/librojquery/tree/master/ejercicios)<br/>
+[Actividad 6.2 fetch & jQuery post](https://github.com/dwcs-code-2223/Actividad6.2.git)<br/>
+
+
 
 ## Propuestas de solución Pruebas 1ª Evaluación
 [Prueba práctica UD2](https://github.com/dwcs-code-2223/Eval1_UD2_Sol.git)<br/>
