@@ -51,6 +51,9 @@
 ## UD6
 [Actividad 6.1 Uniwebsidad - fichero soluciones/sandbox.js ](https://github.com/leandono/librojquery/tree/master/ejercicios)<br/>
 [Actividad 6.2 fetch & jQuery post](https://github.com/dwcs-code-2223/Actividad6.2.git)<br/>
+[Actividad 6.3 Validación cliente](https://github.com/dwcs-code-2223/Actividad6.3-Sol.git) <br/>
+[Actividad 6.4 Simulación de una SPA: Single-Page-Application](https://github.com/dwcs-code-2223/Actividad6.4-sol.git)<br/>
+[Actividad 6.5 Simulación de una SPA: Single-Page-Application II](https://github.com/dwcs-code-2223/Actividad6.5-sol)<br/>
 
 
 
@@ -62,3 +65,4 @@
 ## Propuestas de solución Pruebas 2ª Evaluación
 [Prueba práctica UD4](https://github.com/dwcs-code-2223/Eval2_PruebaUD4_Sol.git)<br/>
 [Prueba práctica UD5](https://github.com/dwcs-code-2223/PruebaUD5_sol_aula.git)<br/>
+
