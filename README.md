@@ -54,6 +54,7 @@
 [Actividad 6.3 Validación cliente](https://github.com/dwcs-code-2223/Actividad6.3-Sol.git) <br/>
 [Actividad 6.4 Simulación de una SPA: Single-Page-Application](https://github.com/dwcs-code-2223/Actividad6.4-sol.git)<br/>
 [Actividad 6.5 Simulación de una SPA: Single-Page-Application II](https://github.com/dwcs-code-2223/Actividad6.5-sol)<br/>
+[Actividad 6.6 Validación servidor](https://github.com/dwcs-code-2223/Actividad-6.6-Sol.git) <br/>
 
 
 
