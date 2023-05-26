@@ -69,4 +69,5 @@
 
 ## Propuestas de solución Pruebas 3ª Evaluación
 [Prueba práctica UD6](https://github.com/dwcs-code-2223/PruebaUD6-Sol)<br/>
+[Prueba práctica UD7](https://github.com/dwcs-code-2223/Prueba-UD7-PRODUCTOS)<br/>
 
