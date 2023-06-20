@@ -71,3 +71,11 @@
 [Prueba práctica UD6](https://github.com/dwcs-code-2223/PruebaUD6-Sol)<br/>
 [Prueba práctica UD7](https://github.com/dwcs-code-2223/Prueba-UD7-PRODUCTOS)<br/>
 
+## Propuestas de solución Pruebas evaluación final
+[Prueba práctica R-UD2](https://github.com/dwcs-code-2223/R-UD2-Sol)<br/>
+[Prueba práctica R-UD3](https://github.com/dwcs-code-2223/R-UD3-Sol)<br/>
+[Prueba práctica R-UD4](https://github.com/dwcs-code-2223/R-UD4-Sol)<br/>
+[Prueba práctica R-UD5](https://github.com/dwcs-code-2223/R-UD5-Sol)<br/>
+[Prueba práctica R-UD6](https://github.com/dwcs-code-2223/R-UD6-Sol)<br/>
+[Prueba práctica R-UD7](https://github.com/dwcs-code-2223/R-UD7-Sol)<br/>
+
